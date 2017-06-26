@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Multiplication Table 2.0", "10. Multiplication Table 2.0\10. Multiplication Table 2.0.csproj", "{840038C7-F46E-45B2-AFD6-21F0B346E3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Odd Number", "11. Odd Number\11. Odd Number.csproj", "{BB9CF62E-ADEC-42CE-A283-8A077286D695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Odd Number 1", "11 Odd Number 1\11 Odd Number 1.csproj", "{F74C7548-FB2C-4CD5-A8A8-149103458472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Number Checker try-catch block", "12. Number Checker try-catch block\12. Number Checker try-catch block.csproj", "{700F8009-7D32-423F-8C85-A61B1D3CC9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840038C7-F46E-45B2-AFD6-21F0B346E3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840038C7-F46E-45B2-AFD6-21F0B346E3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840038C7-F46E-45B2-AFD6-21F0B346E3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840038C7-F46E-45B2-AFD6-21F0B346E3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9CF62E-ADEC-42CE-A283-8A077286D695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9CF62E-ADEC-42CE-A283-8A077286D695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9CF62E-ADEC-42CE-A283-8A077286D695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9CF62E-ADEC-42CE-A283-8A077286D695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74C7548-FB2C-4CD5-A8A8-149103458472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74C7548-FB2C-4CD5-A8A8-149103458472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74C7548-FB2C-4CD5-A8A8-149103458472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74C7548-FB2C-4CD5-A8A8-149103458472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700F8009-7D32-423F-8C85-A61B1D3CC9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700F8009-7D32-423F-8C85-A61B1D3CC9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700F8009-7D32-423F-8C85-A61B1D3CC9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700F8009-7D32-423F-8C85-A61B1D3CC9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
